@@ -1,13 +1,13 @@
 live_config_reload: true
 window:
   dimensions:
-    columns: 230
+    columns: 115
     lines: 55
   padding:
     x: 43
     y: 29
   position:
-    x: 80
+    x: 40
     y: 80
   decorations: none
    # opacity: 0.87
