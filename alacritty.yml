@@ -1,16 +1,16 @@
 live_config_reload: true
 window:
   dimensions:
-    columns: 115
-    lines: 55
+    columns: 240
+    lines: 60
   padding:
-    x: 43
-    y: 29
+    x: 30
+    y: 20
   position:
-    x: 40
-    y: 80
+    x: 180
+    y: 120
   decorations: none
-   # opacity: 0.87
+  opacity: 0.9
 scrolling:
   history: 10000
   multiplier: 3
@@ -28,7 +28,7 @@ font:
   bold_italic:
     family: 'Hack Nerd Font Mono'
     style: Bold Italic
-  size: 16
+  size: 15
   offset:
     x: 1
     y: 8
