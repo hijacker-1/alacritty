@@ -2,15 +2,15 @@ live_config_reload: true
 window:
   dimensions:
     columns: 240
-    lines: 60
+    lines: 47
   padding:
-    x: 30
-    y: 20
+    x: 50
+    y: 40
   position:
     x: 180
     y: 120
   decorations: none
-  opacity: 0.9
+  opacity: 0.77
 scrolling:
   history: 10000
   multiplier: 3
@@ -31,7 +31,7 @@ font:
   size: 15
   offset:
     x: 1
-    y: 8
+    y: 17
 
 # github Alacritty Colors
 colors:
