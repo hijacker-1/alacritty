@@ -10,7 +10,7 @@ window:
     x: 180
     y: 120
   decorations: none
-  opacity: 0.77
+  opacity: 0.95
 scrolling:
   history: 10000
   multiplier: 3
