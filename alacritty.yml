@@ -2,8 +2,8 @@ live_config_reload: true
 window:
   # startup_mode: Fullscreen
   dimensions:
-    columns: 246
-    lines: 46
+    columns: 170
+    lines: 37
   padding:
     x: 30
     y: 20
@@ -11,7 +11,7 @@ window:
     x: 30
     y: 70
   decorations: none
-    # opacity: 0.96
+  opacity: 0.96
 scrolling:
   history: 10000
   multiplier: 3
