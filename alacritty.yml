@@ -11,7 +11,7 @@ window:
     x: 30
     y: 30
   decorations: none
-  opacity: 0.96
+    # opacity: 0.96
 scrolling:
   history: 10000
   multiplier: 3
