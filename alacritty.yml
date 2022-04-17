@@ -9,7 +9,7 @@ window:
     y: 20
   position:
     x: 30
-    y: 50
+    y: 30
   decorations: none
   opacity: 0.96
 scrolling:
