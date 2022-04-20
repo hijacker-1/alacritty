@@ -2,14 +2,14 @@ live_config_reload: true
 window:
   # startup_mode: Fullscreen
   dimensions:
-    columns: 170
-    lines: 37
+    columns: 191
+    lines: 40
   padding:
-    x: 30
+    x: 20
     y: 20
   position:
-    x: 30
-    y: 30
+    x: 33
+    y: 28
   decorations: none
     # opacity: 0.96
 scrolling:
@@ -29,10 +29,10 @@ font:
   bold_italic:
     family: 'JetBrainsMono Nerd Font'
     style: Bold Italic
-  size: 15
+  size: 14
   offset:
     x: 2
-    y: 19
+    y: 18
 # github Alacritty Colors
 colors:
   # Default colors
